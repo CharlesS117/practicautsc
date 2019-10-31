@@ -14,7 +14,7 @@ $(function() {
 	window.fbAsyncInit = function() {
 
 	  	FB.init({
-	    	appId      : 'app_id',
+	    	appId      : '2667318313330971',
 	    	status     : true,
 	    	cookie     : true, 
 	    	xfbml      : true, 
